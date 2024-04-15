@@ -1,5 +1,5 @@
 # Onehub Rust Library
-```
+```Rust
 extern crate reqwest;
 use reqwest::header;
 
